@@ -1,11 +1,9 @@
 
 <p align="center">
   <a href="https://github.com/sfeorg/Nothing-Template" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/sfeorg/Nothing-Template/blob/main/pc-shot.jpg" title="Nothing-Template"/>
+    <img src="https://github.com/sfeorg/Nothing-Template/blob/main/Liquid-Glass.jpg" title="Nothing-Template"/>
   </a>
-   <a href="https://github.com/sfeorg/Nothing-Template" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/sfeorg/Nothing-Template/blob/main/android.png" title="Nothing-Template"/>
-  </a>
+
 </p>
 <h1 align="center">Subscription Template for <a href="https://github.com/rebeccapanel/Rebecca">rebecca Panel</a></h1>
 
